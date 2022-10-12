@@ -1,5 +1,1 @@
 ---
-admin_email: webmaster@localhost
-web_dest: /var/www/html
-http_port: 80
-
